@@ -33,5 +33,41 @@
         "title": "Streams API e Programação Funcional"
       }
     ]
+  },
+  {
+    "title": "Ferramentas Essenciais",
+    "subMenu": [
+      {
+        "title": "Git e Github"
+      },
+      {
+        "title": "Maven e Gradle"
+      },
+      {
+        "title": "Docker"
+      }
+    ]
+  },
+  {
+    "title": "Spring Framework",
+    "subMenu": [
+      {
+        "title": "Introdução ao Spring Framework"
+      },
+      {
+        "title": "IoC e DI"
+      },
+      {
+        "title": "Beans e Contexto"
+      }
+    ]
+  },
+  {
+    "title": "Primeiros passos",
+    "subMenu": [
+      {
+        "title": "Projeto Spring Boot do Zero"
+      }
+    ]
   }
 ]
