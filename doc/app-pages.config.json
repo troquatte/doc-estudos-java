@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Introdução Júnior"
+  },
+  {
+    "title": "Instalação do Java"
+  },
+  {
+    "title": "Fundamentos",
+    "subMenu": [
+      {
+        "title": "Programação Orientada a Objetos"
+      },
+      {
+        "title": "Tipos de Dados e Operadores"
+      },
+      {
+        "title": "Condicionais e Loops"
+      },
+      {
+        "title": "Collections Framework"
+      },
+      {
+        "title": "Tratamento de Exceções"
+      },
+      {
+        "title": "Manipulação de Arquivos"
+      },
+      {
+        "title": "Threads e Concorrência"
+      },
+      {
+        "title": "Streams API e Programação Funcional"
+      }
+    ]
+  }
+]
